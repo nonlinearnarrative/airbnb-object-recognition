@@ -99,3 +99,9 @@ ENV/
 
 # mypy
 .mypy_cache/
+
+# custom
+darknet/yolov3.weights
+photos/host-photos/*
+photos/listing-photos/*
+data
