@@ -27,4 +27,4 @@ python recognition.py
 ```
 
 ## About this project
-[`airbnb-object-recognition`](https://github.com/nonlinearnarrative/airbnb-object-recognition) and [`scrape-airbnb`](https://github.com/nonlinearnarrative/scrape-airbnb) were written as part of a workshop at [Non-Linear Narrative](https://www.kabk.nl/en/programmes/master/non-linear-narrative) at Royal Academy of Art The Hague.
+[`airbnb-object-recognition`](https://github.com/nonlinearnarrative/airbnb-object-recognition) and [`scrape-airbnb`](https://github.com/nonlinearnarrative/scrape-airbnb) were written as part of a workshop at [Non-Linear Narrative](https://www.kabk.nl/en/programmes/master/non-linear-narrative) at Royal Academy of Art The Hague. They are tools used to create [No Home Like Place](https://github.com/nonlinearnarrative/no-home-like-place).
